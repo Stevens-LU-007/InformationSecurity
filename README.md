@@ -18,6 +18,6 @@ Reference slides: https://1drv.ms/p/s!AlbmWXeuzxhbhC59RLaB43UvxFbP?e=FyVmqt
 Reference: https://1drv.ms/p/s!AlbmWXeuzxhbhQan3D5Uidtuhct3?e=o60yly
 
 
-**Final Project (Harvard University - Project Portfolio)** 
+**Harvard University - Final Project (Portfolio)** 
 - By Sean Stevens 
 
