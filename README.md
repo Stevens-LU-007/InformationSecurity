@@ -19,5 +19,5 @@ Reference: https://1drv.ms/p/s!AlbmWXeuzxhbhQan3D5Uidtuhct3?e=o60yly
 
 
 **Final Project (Harvard University - Project Portfolio)** 
-- By Sean Stevens Reference: https://youtu.be/O-RnldYy6iE?si=StYSPXc5x7dG5vAW
+- By Sean Stevens 
 
