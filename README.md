@@ -13,7 +13,7 @@ Reference: https://sway.cloud.microsoft/Y7An83YuCdTuaHZA?ref=Link
 Reference slides: https://1drv.ms/p/s!AlbmWXeuzxhbhC59RLaB43UvxFbP?e=FyVmqt
 
 
-**Cybersecurity Awareness Building (EGUARDIAN GROUP)** 
+**Cybersecurity Awareness Building (M&S Group)** 
 
 Reference: https://1drv.ms/p/s!AlbmWXeuzxhbhQan3D5Uidtuhct3?e=o60yly
 
