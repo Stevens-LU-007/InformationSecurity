@@ -18,12 +18,9 @@ Reference slides: https://1drv.ms/p/s!AlbmWXeuzxhbhC59RLaB43UvxFbP?e=FyVmqt
 Reference: https://1drv.ms/p/s!AlbmWXeuzxhbhQan3D5Uidtuhct3?e=o60yly
 
 
-**Harvard University - Final Project (Portfolio)** 
-- By Sean Stevens
-
 
 **Content Creation part of Communication strategy** for  
-**‘Pick Me’** - AR & AI-powered Virtual Fashion Wardrobe  
+**‘Pick Me’** - AR & AI-powered Virtual Fashion Wardrobe - By Sean Stevens (SCG) 
 
 **Digital Design (Infographic) on prototype  on ‘Pick Me**’ : https://drive.google.com/file/d/1dQRFQ4ywMgUGwIn7Hx1ejUmtvBG0GR5O/view?usp=sharing  
 
