@@ -10,7 +10,7 @@ Strategic Plan
 Reference: https://sway.cloud.microsoft/s93tDRF2SQY2iEkA?ref=Link 
 
 
-Reference slides: https://1drv.ms/p/s!AlbmWXeuzxhbhC59RLaB43UvxFbP?e=FyVmqt
+Reference slides: Malmo Stad Reference slides https://1drv.ms/p/s!AlbmWXeuzxhbhC6lw85nxIw7KcCg?e=Go0pLy
 
 
 **Cybersecurity Awareness Building (M&S Group)** 
