@@ -3,7 +3,7 @@ Cyber &amp; Information Security Portfolio: **
 
 
 
-**Cybersecurity Risk Mitigation & Awareness Building **
+::: **Cybersecurity Risk Mitigation & Awareness Building ** :::
 Strategic Plan 
 
 **Case of Malmö Stad – Eurovision (May 2024) - By Sean Stevens**
@@ -17,7 +17,7 @@ Reference slides: Malmo Stad Reference slides https://1drv.ms/p/s!AlbmWXeuzxhbhC
 
 
 
-**Cybersecurity Awareness Building (M&S Group)** 
+::: **Cybersecurity Awareness Building (M&S Group)** :::
 
 Reference: https://onedrive.live.com/view?id=5B18CFAE7759E656!646&resid=5B18CFAE7759E656!646&authkey=!APO1IT_5DrZ71qc&wdo=2&cid=5b18cfae7759e656
 
@@ -27,8 +27,8 @@ Reference: https://onedrive.live.com/view?id=5B18CFAE7759E656!646&resid=5B18CFAE
 
 
 
-**Content Creation part of Communication strategy** for  
-**‘Pick Me’** - AR & AI-powered Virtual Fashion Wardrobe - By Sean Stevens (SCG) 
+::: **Content Creation part of Communication strategy** for  **‘Pick Me’** ::: 
+- AR & AI-powered Virtual Fashion Wardrobe - By Sean Stevens (SCG) 
 
 **Digital Design (Infographic) on prototype  on ‘Pick Me**’ : https://drive.google.com/file/d/1dQRFQ4ywMgUGwIn7Hx1ejUmtvBG0GR5O/view?usp=sharing  
 
