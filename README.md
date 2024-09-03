@@ -1,4 +1,4 @@
-# Cyber & Information Security and Awareness Building**
+# GRC CyberSecurity & Awareness Building**
 Cyber &amp; Information Security Portfolio: **
 
 
