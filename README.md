@@ -15,7 +15,7 @@ Reference slides: https://1drv.ms/p/s!AlbmWXeuzxhbhC59RLaB43UvxFbP?e=FyVmqt
 
 **Cybersecurity Awareness Building (M&S Group)** 
 
-Reference: https://1drv.ms/p/s!AlbmWXeuzxhbhQbztSE_-Q62e9an?e=welmcg 
+Reference: https://onedrive.live.com/view?id=5B18CFAE7759E656!646&resid=5B18CFAE7759E656!646&authkey=!APO1IT_5DrZ71qc&wdo=2&cid=5b18cfae7759e656
 
 
 
